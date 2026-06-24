@@ -1,0 +1,6 @@
+﻿{
+    "version":  "1.0.0",
+    "installer_url":  "https://github.com/lkpn/LifeInsuranceCRM-Releases/releases/download/v1.0.0/LifeInsuranceCRMSetup-1.0.0.exe",
+    "sha256":  "6e000751ca85e482ec6a4489f53158df8f98db817e7c23d4030ba351a44c27be",
+    "release_notes":  "Bug fixes and improvements"
+}
