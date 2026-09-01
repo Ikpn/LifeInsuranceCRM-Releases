@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.1",
-    "installer_url":  "https://github.com/Ikpn/LifeInsuranceCRM-Releases/releases/download/v1.1.1/LifeInsuranceCRMSetup-1.1.1.exe",
-    "sha256":  "1feb52aa566512ff516917b79aa15f29bfd1c4bb880993c9f24d476ef27383f4",
-    "release_notes":  "Bug fixes and improvements"
+    "version":  "1.1.2",
+    "installer_url":  "https://github.com/Ikpn/LifeInsuranceCRM-Releases/releases/download/v1.1.2/LifeInsuranceCRMSetup-1.1.2.exe",
+    "sha256":  "7275440ad554b3f0e5424d092f37c4182a2d562bf92e691d8a6fec1e59e0235d",
+    "release_notes":  "Policy group defaults and session-only group memory"
 }
