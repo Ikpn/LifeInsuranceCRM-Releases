@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.2",
-    "installer_url":  "https://github.com/Ikpn/LifeInsuranceCRM-Releases/releases/download/v1.1.2/LifeInsuranceCRMSetup-1.1.2.exe",
-    "sha256":  "7275440ad554b3f0e5424d092f37c4182a2d562bf92e691d8a6fec1e59e0235d",
-    "release_notes":  "Policy group defaults and session-only group memory"
+  "version": "1.1.3",
+  "installer_url": "https://github.com/Ikpn/LifeInsuranceCRM-Releases/releases/download/v1.1.3/LifeInsuranceCRMSetup-1.1.3.exe",
+  "sha256": "96152fd00e05da111e3780b7cc705967d001a11b4528839a73269e20ecc8e89d",
+  "release_notes": "Fix policy status saving with blank email or attachments; preserve empty fields and release failed database writes."
 }
