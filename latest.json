@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "installer_url": "https://github.com/Ikpn/LifeInsuranceCRM-Releases/releases/download/v1.2.0/LifeInsuranceCRMSetup-1.2.0.exe",
-  "sha256": "bcc34941e13d5dd5586d09a9858eb1960782d54a5fe9cb8905cfe5e1e47291f5",
-  "release_notes": "Insured birthday reminders, agent/referral shares, saved policy columns, sticky scrolling, and one-time installer terms. Existing records and default views are retained."
+  "version": "1.2.1",
+  "installer_url": "https://github.com/Ikpn/LifeInsuranceCRM-Releases/releases/download/v1.2.1/LifeInsuranceCRMSetup-1.2.1.exe",
+  "sha256": "9729f8ed9008d2f0819db3a15253fa3cb33baf0cce83ffbff110806e649254e9",
+  "release_notes": "Fixes startup after upgrading older installations and adds Check for Updates above the sidebar account area. Existing data and saved views are retained."
 }
