@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "installer_url": "https://github.com/Ikpn/LifeInsuranceCRM-Releases/releases/download/v1.2.2/LifeInsuranceCRMSetup-1.2.2.exe",
-  "sha256": "08bc565865321f604ae4bf5e1f7402255fdc1852ad9e93579bf8d70136fd5a93",
-  "release_notes": "Policy reminders and dates, customizable dashboard columns, pinned section scrollbars, and original birthdates with upcoming birthday countdowns."
+  "version": "1.2.3",
+  "installer_url": "https://github.com/Ikpn/LifeInsuranceCRM-Releases/releases/download/v1.2.3/LifeInsuranceCRMSetup-1.2.3.exe",
+  "sha256": "94708abe90b58ad3eac8c140afe9275102d5b53da9806c81199fb73e73f1f243",
+  "release_notes": "Browser update confirmation; flexible Excel and CSV imports and exports; saved draggable policy and dashboard columns; preserved default layouts; aligned owner names and removed policy-row dragging."
 }
